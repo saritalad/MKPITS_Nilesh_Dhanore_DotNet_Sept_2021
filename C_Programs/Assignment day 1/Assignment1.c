@@ -7,7 +7,7 @@ int main()
 {
 
 
-printf("\" enter key is pressed from program using \\n\ as new line character\"" );
+printf("\" enter key is pressed from program using \\n as new line character\"" );
 
 return 0;
 
