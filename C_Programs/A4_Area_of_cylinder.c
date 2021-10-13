@@ -11,7 +11,7 @@ float r =2.0,l=3.0;
 x=2*pie*r*l;
 
 
-printf(" \n The area of rectangle is x=%3.2f",x);
+printf(" \n The area of cercle is x=%3.2f",x);
 
 return 0;
 

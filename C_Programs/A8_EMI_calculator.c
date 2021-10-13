@@ -16,7 +16,7 @@ int main()
  scanf("%d",&n);
  
  temp = r/(12*100);
- emi = p * r * pow(1+r,n)/(pow(1+r,n)-1);
+ emi = p * temp * pow(1+r,n)/(pow(1+r,n)-1);
 
  printf("Monthly EMI = %0.4f",emi);
 
