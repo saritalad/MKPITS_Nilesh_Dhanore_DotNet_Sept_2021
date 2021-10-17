@@ -4,7 +4,7 @@
 
 /* global variable declaration */
 int main()
-{
+{/* incomplete program */
 int 
   printf("Enter the grocery items \n");
   scanf("%d",&n);
